@@ -1,0 +1,8 @@
+Elsa: Hello
+Elsa: Do you speak English?
+Elsa: Yes.
+Elsa: I’m from Ha Noi.I’m from Ha Noi.
+Elsa: exit
+Dang Huu Phuoc: Hello
+Dang Huu Phuoc: Do you speak English?
+Dang Huu Phuoc: Yes.

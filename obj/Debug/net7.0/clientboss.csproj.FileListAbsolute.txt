@@ -1,0 +1,14 @@
+E:\clientboss\bin\Debug\net7.0\clientboss.exe
+E:\clientboss\bin\Debug\net7.0\clientboss.deps.json
+E:\clientboss\bin\Debug\net7.0\clientboss.runtimeconfig.json
+E:\clientboss\bin\Debug\net7.0\clientboss.dll
+E:\clientboss\bin\Debug\net7.0\clientboss.pdb
+E:\clientboss\obj\Debug\net7.0\clientboss.GeneratedMSBuildEditorConfig.editorconfig
+E:\clientboss\obj\Debug\net7.0\clientboss.AssemblyInfoInputs.cache
+E:\clientboss\obj\Debug\net7.0\clientboss.AssemblyInfo.cs
+E:\clientboss\obj\Debug\net7.0\clientboss.csproj.CoreCompileInputs.cache
+E:\clientboss\obj\Debug\net7.0\clientboss.dll
+E:\clientboss\obj\Debug\net7.0\refint\clientboss.dll
+E:\clientboss\obj\Debug\net7.0\clientboss.pdb
+E:\clientboss\obj\Debug\net7.0\clientboss.genruntimeconfig.cache
+E:\clientboss\obj\Debug\net7.0\ref\clientboss.dll
